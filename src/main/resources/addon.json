@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "ChatTranslator",
+  "author": "IBims1ckoky",
+  "version": 1,
+  "icon": "https://i.imgur.com/hlgcrio.png",
+  "description": "This Addon translates your messages!",
+  "category": 2,
+  "mainClass": "de.maxi.addon.TranslatorAddon"
+}

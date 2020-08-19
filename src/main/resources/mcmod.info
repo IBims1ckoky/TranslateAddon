@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "ChatTranslator",
+  "description": "Automatic Translator for the Chat",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IBims1ckoky"],
+  "credits": "Nobody",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
