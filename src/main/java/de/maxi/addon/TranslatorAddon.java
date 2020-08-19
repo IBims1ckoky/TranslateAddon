@@ -71,8 +71,10 @@ public class TranslatorAddon extends LabyModAddon {
                System.out.println(languageEnum);
            }
        });
-
         settingsList.add(languageDropDownElement);
+
+        settingsList.add(new HeaderElement("§6§lChatTranslator §l§8| §l§7EXAMPLE"));
+        settingsList.add(new HeaderElement("§7!Hello my name is Maxi"));
     }
 
     public static TranslatorAddon getInstance() {
